@@ -68,6 +68,12 @@ nav.mainnav a:hover{color:var(--cobalt);}
 }
 h1{font-size:2rem;line-height:1.3;font-weight:800;margin:0 0 14px;letter-spacing:-.01em;}
 .lede{color:var(--ink-muted);font-size:15.5px;max-width:62ch;margin:0 0 8px;}
+.artmeta{
+  font-family:"IBM Plex Mono",monospace;font-size:12px;color:var(--ink-muted);
+  margin:0 0 4px;display:flex;flex-wrap:wrap;gap:14px;align-items:center;
+}
+.artmeta time{white-space:nowrap;}
+.artmeta .sep{color:var(--hairline);}
 
 .catgrid{
   display:grid;grid-template-columns:repeat(auto-fill,minmax(210px,1fr));
