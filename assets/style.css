@@ -136,3 +136,12 @@ footer.site-footer{
   margin-top:60px;border-top:1px solid var(--hairline);padding:28px 0 40px;
   color:var(--ink-muted);font-size:12.5px;
 }
+
+.midcta{
+  background:var(--surface);border:1px solid var(--hairline);
+  border-left:3px solid var(--cobalt);border-radius:10px;
+  padding:16px 18px;margin:26px 0;
+}
+.midcta p.mt{font-size:11.5px;font-weight:800;letter-spacing:.05em;color:var(--cobalt);margin:0 0 7px;}
+.midcta p.md{font-size:13.5px;color:var(--ink-muted);margin:0 0 12px;line-height:1.75;}
+.midcta .cta{margin:0 8px 0 0;}
