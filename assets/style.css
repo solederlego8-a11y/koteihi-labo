@@ -90,6 +90,25 @@ h1{font-size:2rem;line-height:1.3;font-weight:800;margin:0 0 14px;letter-spacing
 .catgrid .t{font-size:15px;font-weight:700;}
 .catgrid .d{font-size:13px;color:var(--ink-muted);}
 
+.postlist{list-style:none;margin:8px 0 32px;padding:0;}
+.postlist .post{
+  padding:18px 0;border-bottom:1px solid var(--hairline);
+}
+.postlist .post:first-child{border-top:1px solid var(--hairline);}
+.post-meta{
+  display:flex;align-items:center;gap:12px;margin:0 0 6px;
+  font-family:"IBM Plex Mono",monospace;font-size:11.5px;color:var(--ink-muted);
+}
+.post-cat{
+  font-weight:700;letter-spacing:.1em;text-transform:uppercase;color:var(--cobalt);
+  background:var(--cobalt-tint);padding:2px 8px;border-radius:999px;font-size:10.5px;
+}
+.post-title{
+  display:block;font-size:16px;font-weight:700;color:var(--ink);text-decoration:none;line-height:1.5;
+}
+.post-title:hover{color:var(--cobalt);}
+.post-desc{margin:6px 0 0;font-size:13.5px;color:var(--ink-muted);line-height:1.7;}
+
 article.prose{font-size:15.5px;}
 article.prose h2{font-size:1.15rem;font-weight:800;margin:32px 0 12px;}
 article.prose h3{font-size:1rem;font-weight:700;margin:22px 0 8px;}
