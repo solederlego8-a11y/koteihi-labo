@@ -169,3 +169,8 @@ footer.site-footer{
 .tldr{background:#f3f7f4;border-left:4px solid #1f6f8b;padding:14px 18px;margin:0 0 22px}
 .tldr p{margin:0 0 6px}
 .tldr ul{margin:0;padding-left:1.2em}
+/* multi-column table */
+.tablewrap{overflow-x:auto;margin:8px 0 22px}
+table.grid{width:100%;border-collapse:collapse;font-size:13.5px;min-width:520px;border:1px solid var(--hairline)}
+table.grid th,table.grid td{padding:9px 12px;border:1px solid var(--hairline);text-align:left;vertical-align:top}
+table.grid thead th{background:var(--bg-alt);font-weight:700;font-size:12.5px}
