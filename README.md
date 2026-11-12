@@ -90,6 +90,7 @@
 - [クリクラの引っ越しは解約が必要？1〜2週間前の連絡と担当店舗が変わる場合](https://solederlego8-a11y.github.io/koteihi-labo/articles/crecla-hikkoshi-kaiyaku-hitsuyou-1-2shukan-mae.html)
 - [アルピナウォーターの引っ越しはどうする？エリア外のときの解約金と連絡先](https://solederlego8-a11y.github.io/koteihi-labo/articles/alpina-water-hikkoshi-jusho-henko-area-gai.html)
 - [コスモウォーターのサーバー返却・回収はいつ？解約の電話と引取手数料33,000円](https://solederlego8-a11y.github.io/koteihi-labo/articles/cosmowater-kaiyaku-server-henkyaku-kaishu-itsu.html)
+- [生命保険料の平均はいくら？2人以上世帯で年間35.3万円・単身世帯は14.4万円、払いすぎの目安と見直し手順](https://solederlego8-a11y.github.io/koteihi-labo/articles/seimei-hoken-heikin-minaoshi.html)
 
 ### tools
 - [固定費の見直しでいくら変わる？通信・電気・保険・サブスクの年額を計算](https://solederlego8-a11y.github.io/koteihi-labo/tools/koteihi-simulator.html)
