@@ -174,3 +174,6 @@ footer.site-footer{
 table.grid{width:100%;border-collapse:collapse;font-size:13.5px;min-width:520px;border:1px solid var(--hairline)}
 table.grid th,table.grid td{padding:9px 12px;border:1px solid var(--hairline);text-align:left;vertical-align:top}
 table.grid thead th{background:var(--bg-alt);font-weight:700;font-size:12.5px}
+
+/* CAP-03 paid-next block (tools/taikyo-genpon) */
+.paid-next { margin-top: 1.5em; padding: 1em; border: 1px solid #999; }
