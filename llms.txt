@@ -1,6 +1,6 @@
 # 生活費ラボ
 
-> 毎月の固定費を見直して、浮いたお金を資産形成へつなげるための実践ブログ。クレジットカード・通信費・光熱費・サブスクサービスを一つずつ見直す方法を、公式情報と確認日つきで整理する。このサイトは https://solederlego8-a11y.github.io/koteihi-labo/ で運営する「生活費ラボ」で、seikatsuhi-labo.com の「生活費LABO」とは別のサイトです。運営：編集部。最終更新日：2026-11-14。
+> 毎月の固定費を見直して、浮いたお金を資産形成へつなげるための実践ブログ。クレジットカード・通信費・光熱費・サブスクサービスを一つずつ見直す方法を、公式情報と確認日つきで整理する。このサイトは https://solederlego8-a11y.github.io/koteihi-labo/ で運営する「生活費ラボ」で、seikatsuhi-labo.com の「生活費LABO」とは別のサイトです。運営：編集部。最終更新日：2026-11-23。
 
 ## 主要ページ
 
@@ -12,6 +12,8 @@
 
 ## 記事（代表）
 
+- [固定費の見直しチェックリスト｜家賃・通信・保険・サブスクの削減額の目安](https://solederlego8-a11y.github.io/koteihi-labo/articles/koteihi-minaoshi-checklist.html)
+- [スマホ料金を下げる手順｜格安SIM乗り換えで困ること・困らないこと](https://solederlego8-a11y.github.io/koteihi-labo/articles/kakuyasu-sim-norikae-tejun.html)
 - [固定費の見直しは何から？判断フロー表と窓口一覧](https://solederlego8-a11y.github.io/koteihi-labo/articles/koteihi-minaoshi-junban-hantei-flow.html)
 - [コスモウォーター vs フレシャス どちらがお得か](https://solederlego8-a11y.github.io/koteihi-labo/articles/water-server-cosmowater-frecious-hikaku.html)
 - [ウォーターサーバー解約金 6社一覧](https://solederlego8-a11y.github.io/koteihi-labo/articles/water-server-kaiyakukin-ichiran.html)
