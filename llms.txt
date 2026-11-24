@@ -12,6 +12,7 @@
 
 ## 記事（代表）
 
+- [電気料金プランの見直し手順｜契約容量と使用量から選ぶ計算の仕方](https://solederlego8-a11y.github.io/koteihi-labo/articles/denki-ryokin-plan-minaoshi.html)
 - [固定費の見直しチェックリスト｜家賃・通信・保険・サブスクの削減額の目安](https://solederlego8-a11y.github.io/koteihi-labo/articles/koteihi-minaoshi-checklist.html)
 - [スマホ料金を下げる手順｜格安SIM乗り換えで困ること・困らないこと](https://solederlego8-a11y.github.io/koteihi-labo/articles/kakuyasu-sim-norikae-tejun.html)
 - [固定費の見直しは何から？判断フロー表と窓口一覧](https://solederlego8-a11y.github.io/koteihi-labo/articles/koteihi-minaoshi-junban-hantei-flow.html)
